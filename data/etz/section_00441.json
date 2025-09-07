@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "source_file": "Sefer Etz Chaim - he - Sefer Etz Chaim.json",
+    "section_index": 441,
+    "section_hns": "441.1",
+    "path_trace": [
+      "text#14",
+      "#2",
+      "30",
+      "1",
+      "4"
+    ],
+    "paren_count": 1
+  },
+  "text_he": "(וזה ענינם בקצרה):",
+  "parentheses": [
+    {
+      "hns": "441.1.1",
+      "text": "וזה ענינם בקצרה"
+    }
+  ]
+}

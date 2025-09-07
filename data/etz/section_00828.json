@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "source_file": "Sefer Etz Chaim - he - Sefer Etz Chaim.json",
+    "section_index": 828,
+    "section_hns": "828.1",
+    "path_trace": [
+      "text#14",
+      "#2",
+      "50",
+      "10",
+      "12"
+    ],
+    "paren_count": 1
+  },
+  "text_he": "(ד) שם פז\"ק שביסוד ז\"א מילוי ג' כלים דדעת שלשתן גימטריא קפ\"ז:",
+  "parentheses": [
+    {
+      "hns": "828.1.1",
+      "text": "ד"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "source_file": "Sefer Etz Chaim - he - Sefer Etz Chaim.json",
+    "section_index": 700,
+    "section_hns": "700.1",
+    "path_trace": [
+      "text#14",
+      "#2",
+      "44",
+      "3",
+      "26"
+    ],
+    "paren_count": 1
+  },
+  "text_he": "מחוץ לגבורה אל\"ף. אל\"ף ה\"ה. אל\"ף ה\"ה יו\"ד. אל\"ף ה\"ה יו\"ד ה\"י. (רבוע קנ\"א וה' אחרונה ביו\"ד):",
+  "parentheses": [
+    {
+      "hns": "700.1.1",
+      "text": "רבוע קנ\"א וה' אחרונה ביו\"ד"
+    }
+  ]
+}

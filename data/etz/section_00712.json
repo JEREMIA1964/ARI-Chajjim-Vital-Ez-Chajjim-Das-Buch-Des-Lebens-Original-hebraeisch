@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "source_file": "Sefer Etz Chaim - he - Sefer Etz Chaim.json",
+    "section_index": 712,
+    "section_hns": "712.1",
+    "path_trace": [
+      "text#14",
+      "#2",
+      "44",
+      "4",
+      "7"
+    ],
+    "paren_count": 1
+  },
+  "text_he": "הגבורה החיצון אכדט\"ם. גימ' ע\"ד (נ\"א במוכ\"ן). האמצעי אלהי\"ם פ\"ו. הפנימי יהו\"ה בניקוד אלהים:",
+  "parentheses": [
+    {
+      "hns": "712.1.1",
+      "text": "נ\"א במוכ\"ן"
+    }
+  ]
+}

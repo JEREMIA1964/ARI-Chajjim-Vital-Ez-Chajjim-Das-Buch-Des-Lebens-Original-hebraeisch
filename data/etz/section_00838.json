@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "source_file": "Sefer Etz Chaim - he - Sefer Etz Chaim.json",
+    "section_index": 838,
+    "section_hns": "838.1",
+    "path_trace": [
+      "text#14",
+      "#2",
+      "50",
+      "10",
+      "22"
+    ],
+    "paren_count": 1
+  },
+  "text_he": "(יד) בכתף ימני דז\"א שם עומדין ה\"ח דדעת ובכתף שמאלי ה\"ג ויש שם י\"ה בימינא ושם י\"ה בשמאלא והם גימטריא כת\"ף. הימני ביודי\"ן והשמאלי בההי\"ן:",
+  "parentheses": [
+    {
+      "hns": "838.1.1",
+      "text": "יד"
+    }
+  ]
+}

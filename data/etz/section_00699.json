@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "source_file": "Sefer Etz Chaim - he - Sefer Etz Chaim.json",
+    "section_index": 699,
+    "section_hns": "699.1",
+    "path_trace": [
+      "text#14",
+      "#2",
+      "44",
+      "3",
+      "25"
+    ],
+    "paren_count": 1
+  },
+  "text_he": "מחוץ לחסד אל\"ף. אל\"ף ה\"י. אל\"ף ה\"י יו\"ד. אל\"ף ה\"י יו\"ד ה\"ה. (רבוע קס\"א וה' אחרונה בה\"ה):",
+  "parentheses": [
+    {
+      "hns": "699.1.1",
+      "text": "רבוע קס\"א וה' אחרונה בה\"ה"
+    }
+  ]
+}

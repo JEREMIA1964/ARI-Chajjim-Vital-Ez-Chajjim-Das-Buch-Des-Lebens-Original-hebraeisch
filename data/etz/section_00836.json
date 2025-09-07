@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "source_file": "Sefer Etz Chaim - he - Sefer Etz Chaim.json",
+    "section_index": 836,
+    "section_hns": "836.1",
+    "path_trace": [
+      "text#14",
+      "#2",
+      "50",
+      "10",
+      "20"
+    ],
+    "paren_count": 1
+  },
+  "text_he": "(יב) יש קליפות נאחזות בפנים של הגרון ויש באחור הגרון:",
+  "parentheses": [
+    {
+      "hns": "836.1.1",
+      "text": "יב"
+    }
+  ]
+}

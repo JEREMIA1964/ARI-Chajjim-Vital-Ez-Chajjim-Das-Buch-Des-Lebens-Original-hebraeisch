@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "source_file": "Sefer Etz Chaim - he - Sefer Etz Chaim.json",
+    "section_index": 389,
+    "section_hns": "389.1",
+    "path_trace": [
+      "text#14",
+      "#2",
+      "25",
+      "4",
+      "3"
+    ],
+    "paren_count": 1
+  },
+  "text_he": "ר\"ל ד\"ר שהן בתבונה שלישית הם וכו' (כ\"י):",
+  "parentheses": [
+    {
+      "hns": "389.1.1",
+      "text": "כ\"י"
+    }
+  ]
+}

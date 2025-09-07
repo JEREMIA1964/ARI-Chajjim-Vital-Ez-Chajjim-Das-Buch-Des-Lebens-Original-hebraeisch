@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "source_file": "Sefer Etz Chaim - he - Sefer Etz Chaim.json",
+    "section_index": 827,
+    "section_hns": "827.1",
+    "path_trace": [
+      "text#14",
+      "#2",
+      "50",
+      "10",
+      "11"
+    ],
+    "paren_count": 1
+  },
+  "text_he": "(ג) ראש הנוקבא באחור בחזה דז\"א ורגליה שוין עם רגליו ממש לכן יש כוליין וביעין ושוקיים ורגלים כי כל אלו הם קומל המלכות:",
+  "parentheses": [
+    {
+      "hns": "827.1.1",
+      "text": "ג"
+    }
+  ]
+}
