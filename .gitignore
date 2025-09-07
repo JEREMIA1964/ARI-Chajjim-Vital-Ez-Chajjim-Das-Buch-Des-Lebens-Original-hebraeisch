@@ -1,9 +1,9 @@
-# macOS system files
+# macOS Systemdateien
 .DS_Store
 .AppleDouble
 .LSOverride
 
-# Editor & IDE caches
+# Editor- und IDE-Caches
 *.swp
 *.swo
 *~
@@ -11,36 +11,36 @@
 .idea/
 *.iml
 
-# Python caches (falls du Skripte im Repo laufen lässt)
+# Python-Caches (falls Skripte genutzt werden)
 __pycache__/
 *.py[cod]
 *.pyo
 *.pyd
 
-# Logs & temporary files
+# Logs & temporäre Dateien
 *.log
 *.tmp
 *.bak
 *.old
 *.orig
 
-# JSON dumps außer Etz-Chajim
+# JSON-Dumps außer Ez Chajim
 *.json
-!data/etz/index.json
-!data/etz/section_*.json
+!data/ez-chajim/index.json
+!data/ez-chajim/section_*.json
 
-# Archives
+# Archive
 *.zip
 *.tar
 *.tar.gz
 *.tgz
 
-# Node / NPM (falls mal UI-Skripte hinzukommen)
+# Node / NPM (falls UI-Skripte hinzugefügt werden)
 node_modules/
 dist/
 build/
 
-# Local secrets (falls versehentlich erzeugt)
+# Lokale Geheimnisse (nicht ins Repo!)
 .env
 *.key
 *.pem
