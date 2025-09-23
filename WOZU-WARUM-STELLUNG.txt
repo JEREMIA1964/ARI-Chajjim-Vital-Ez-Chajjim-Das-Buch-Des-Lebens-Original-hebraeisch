@@ -1,0 +1,57 @@
+ABSICHT VOR WARUM – Arbeitsprinzip für KREISRUND & Skripten
+
+
+Und der Chissaron (!C!) bedeutet am Ende jedes Abschnitts:
+
+Aus dem zuvor ausgelegten Text wird der Mangel (Chissaron) bewusst
+hervorgehoben und öffentlich sichtbar gemacht. Dadurch erhält die
+Kawana (!K!) Nahrung, um aufgenommen und weitergeführt zu werden.
+So bleibt der Intentionsprozess im Fluss: Absicht → Text →
+Mangel → neue Absicht.
+
+JBR.: 24. Elul 5785 - 17. Sep. 2025 -Mi: 14:41 mesz.
+
+
+„Es ist immer erst die Absicht! Wohin will ES? – Nicht: Warum?“
+Dieses Dokument fixiert die Gesprächs‑, Skript‑ und Architektur‑Reihenfolge im KREISRUND‑Projekt (WWAQ/Q!).
+
+1) WOZU? (Ausrichtung, Zielintention)
+	•	WOZU bestimmt Richtung und Maß: Wohin will ES (Ejn Sof).
+	•	!K! (Kawana) zuerst: Ziel, Nutzen, Wirkung.
+	•	Ergebnis: klare Ziel‑Spezifikation (Profil‑Gewichte L0–L5, Segment‑Scope,  erwartete Artefakte).
+                
+               C! - Und der Chissaron (!C!) bedeutet am Ende jedes Abschnitts:
+               - Aus dem zuvor ausgelegten Text wird der Mangel (Chissaron) bewusst
+                  hervorgehoben und öffentlich sichtbar gemacht.
+
+
+
+2) Nicht WARUM (nicht am Anfang)
+	•	Warum zerlegt/analysiert rückwärts. Nicht der erste Schritt.
+	•	Warum folgt erst, wenn WOZU und Weg stehen – optional, 
+                zur Begründung oder Reflektion.
+3) Zeitpfeil & Intention
+	•	Warum liegt auf dem einen Strahl: Vergangenheit → Gegenwart.
+	•	Ohne positive Zielintention bleibt es in der Vergangenheit stecken.
+	•	WOZU bringt die Gegenwart unter Richtung.
+4) Quelltext der Haltung
+	•	„Noch bevor ihr betet, habe ich euch schon erhört.“ – Absicht ruft die Erhörung;
+	•	WOZU (Ausrichtung) → Weg (Handlung) → dann WARUM (Begründung).
+
+Anwendung im Projekt
+	•	Skript‑ und Antwortmodus:
+	1.	WOZU? Ziel, Output, Messgrößen.
+	2.	Weg/Wie? Konkrete Snippets (zsh/Python/YAML), deterministisch, reproduzierbar.
+	3.	WARUM? nur bei Bedarf/Anfrage (kurz, prüfbar).
+	•	Datenformen: Segmente dürfen paradigma: checksum tragen → X-PARADIGMA: 
+                checksum im VTT‑R.
+	•	Termini: !K! (Ausrichtung), !C! (Mangel/Dissonanz), ES (Ejn Sof), 
+                
+                Q! (Qabbala, WWAQ).
+
+Kurz‑Checkliste vor jedem Commit/Push
+	•	WOZU geklärt? (!K! gesetzt)
+	•	Weg implementiert? Artefakte erzeugt (make build, make checksums, make verify)
+	•	Optional: WARUM dokumentiert (Kommentar/Doc)                -  Und der Chissaron soll mit WARUM besetzt werden, weil  1. immer vergessen wurde das Wozu mit der Absicht vorherzusehen, bestimmend der Zielausrichtung auf Ein Od Milwado - „Da ist Nichts, außer IHN“ oder (jbr.: Außer IHN ist da nichts - oder Nichts außer Ihn - oder Nichts als Ihn, oder Da ist Er und Nichts sonst, usw. - aber niemals possessiv benannt mit ‚IHM',) - nochmals: Das Wozu erscheint sofort als EOM Loesungsansatz wo sich das Warum Fragewort hervortut, ohne auf den Zweck ausgerichtet zu sein. Deshalb Schöpfungsabsicht und Geschöpfabsicht verbinden sich mit dem Fragewort WOZU! EJN SOF BARUCH HU, schuf uns dafür das Wozu! Psalm 105:1: "Dankt und segnet Seinen Namen! Verkündet in Völkern Seine Taten."!  
+
+Stand: 2025‑09‑08 • @jbr.wolff • Q! – K!  - 13.09.2025 - 20. Elul 5785

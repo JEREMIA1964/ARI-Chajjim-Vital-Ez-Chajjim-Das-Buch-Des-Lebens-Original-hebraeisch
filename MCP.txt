@@ -1,0 +1,243 @@
+# K! MCP – Ez Chajim Universal-Übersetzer (WWAQ!) v2.0
+
+> Stand: 2025-09-17 • 14:37 MESZ
+> Ziel: Vollständig erneuerte Multi‑Component‑Pipeline (MCP) für *Ez Chajim* (hebräisch) in Zielsprachen (DE, RU, ZH, HI, FA …), mit WWAQ!-Konformität, HNS‑Treue, Glossar‑Bindung und K!/C!-Rahmen.
+
+---
+
+## 0. Leitaxiome (WWAQ!)
+
+* **Absicht vor Analyse**: K! markiert die Kawana am Anfang.
+* **Mangel als Nahrung**: C! markiert den bewusst hervorgehobenen Chissaron am Ende; dieser macht den Mangel öffentlich sichtbar, um Kawana mit Nahrung zu versorgen.
+* **Kein Zer‑Drama**: Präfix‑Reduktion; Prozesssprache statt Katastrophensprache.
+* **Heilige Namen**: JHWH → HaSCHEM / Der EWIGE; je Sprache ehrende Entsprechung.
+* **Struktur**: HNS‑Nummern, sha16, Zeitstempel, Audit‑Trail.
+* **Sprachprofile**: DIN‑Umschrift (DE), russische Scholarly‑Norm, chinesische Annotation, Hindi‑Devanagari, Persisch mit Ehrformen.
+
+---
+
+## 1. Projektaufbau
+
+```
+mcpez/
+  mcp/core/{loader,hns,hashing,ts,tracing}.py
+  mcp/stages/{10_parse_he,20_translit,30_translate,40_lint,50_glossary,60_validate,70_annotate,80_render}.py
+  mcp/profiles/{de,ru,zh,hi,fa}.yml
+  mcp/prompts/{system_common,system_de,system_ru,system_zh,system_hi,system_fa}.txt
+  glossaries/{base,de,ru,zh,hi,fa}.yaml
+  data/{input/he,output/{de,ru,zh,hi,fa}}
+  scripts/{make_book.py,check_rules.py}
+  logs/
+  mcp_pipeline.yaml
+  Makefile
+```
+
+---
+
+## 2. Pipeline (YAML)
+
+````yaml
+pipeline:
+  - id: parse
+    uses: mcp.stages.10_parse_he:run
+  - id: translit
+    uses: mcp.stages.20_translit:run
+  - id: translate
+    uses: mcp.stages.30_translate:run
+  - id: lint
+    uses: mcp.stages.40_lint:run
+  - id: glossary
+    uses: mcp.stages.50_glossary:run
+  - id: validate
+    uses: mcp.stages.60_validate:run
+  - id: annotate
+    uses: mcp.stages.70_annotate:run
+  - id: render
+    uses: mcp.stages.80_render:run
+
+params:
+  model: gpt-5
+  temperature: 0  # GLOBAL HARD-LOCK
+  max_tokens: 2048
+  retry:
+    max_attempts: 5
+    backoff: 1.6
+  profile: mcp/profiles/de.yml
+  prompt:
+    system: mcp/prompts/system_de.txt
+    user_template: |
+      [HEBREÄISCH]
+      {{ text_he }}
+      ---
+      Übertrage in {{ locale_name }} als würdevoll-akademische Tikun-Sprache.
+      Keine Interpretation, keine Kommentare; nur Übertragung.
+```yaml
+pipeline:
+  - id: parse
+    uses: mcp.stages.10_parse_he:run
+  - id: translit
+    uses: mcp.stages.20_translit:run
+  - id: translate
+    uses: mcp.stages.30_translate:run
+  - id: lint
+    uses: mcp.stages.40_lint:run
+  - id: glossary
+    uses: mcp.stages.50_glossary:run
+  - id: validate
+    uses: mcp.stages.60_validate:run
+  - id: annotate
+    uses: mcp.stages.70_annotate:run
+  - id: render
+    uses: mcp.stages.80_render:run
+
+params:
+  model: gpt-5
+  temperature: 0  # HARD-LOCKED: All JSON/text processing runs at temperature=0
+  max_tokens: 2048
+  retry:
+    max_attempts: 5
+    backoff: 1.6
+  profile: mcp/profiles/de.yml
+  prompt:
+    system: mcp/prompts/system_de.txt
+    user_template: |
+      [HEBREÄISCH]
+      {{ text_he }}
+      ---
+      Übertrage in {{ locale_name }} als würdevoll-akademische Tikun-Sprache.
+      Keine Interpretation, keine Kommentare; nur Übertragung.
+````
+
+---
+
+## 3. Sprachprofile (Beispiel DE)
+
+```yaml
+locale: de
+name: Deutsch (WWAQ!-Tikun)
+transliteration: DIN_31636
+register: liturgisch-akademisch
+holy_names:
+  YHWH: ["HaSCHEM", "Der EWIGE"]
+lints:
+  prefix_reduction:
+    patterns: ["\bzer\w+", "\bver\w+ (im Sinne von Verlust)"]
+    replace: { default: "prozessneutral" }
+  doubles_s:
+    map: { "Chesed": "Chessed", "Yesod": "Jessod", "Malchut": "Malchut" }
+terms:
+  Olamot: "Welten"
+  Partzuf: "Partzuf"
+```
+
+(Analoge `ru.yml`, `zh.yml`, `hi.yml`, `fa.yml` mit spezifischen Regeln für Präfixe, heilige Namen, Terminologie.)
+
+---
+
+## 4. System-Prompts
+
+**`system_common.txt`:**
+
+```
+Du bist ein WWAQ!-konformer Übersetzer für Ez Chajim.
+– Gib nur würdevoll-akademische Übertragungen.
+– Keine Interpretation, keine Kommentare.
+– Heilige Namen maskieren gemäß Profil.
+– Präfix-Dramatik vermeiden.
+– Hebräisch + Umschrift + Übersetzung strukturieren.
+– K!/C! Marker beachten.
+```
+
+---
+
+## 5. Annotate-Stage (\_mcp Block)
+
+```json
+{
+  "text_he": "עץ חיים",
+  "text_tr": "ʿEz Chajim",
+  "text_tl": "Baum des Lebens",
+  "_mcp": {
+    "K": "K!",
+    "C": {
+      "marker": "C!",
+      "meaning": "Hervorgehobener Mangel (Chissaron), öffentlich sichtbar, um Kawana Nahrung zu geben"
+    },
+    "hns": "1.1",
+    "source_file": "section_00001.json",
+    "sha16": "a1b2c3...",
+    "ts": "2025-09-17T14:37:00+02:00",
+    "profile": "de"
+  }
+}
+```
+
+---
+
+## 6. Qualitätssicherung
+
+* **Deterministik**: **HARD-LOCK** `temperature=0` in Pipeline, Stage-Call und CLI (Makefile). Validator bricht ab, falls abweichender Wert erkannt wird.
+* **Retry/Backoff**: bis 5 Versuche.
+* **Lint-Regeln**: Präfix, Namen, Glossar.
+* **Glossar-Gates**: Termini festnageln.
+* **Audit**: JSONL/CSV mit HNS, sha, ts, tokens **und** `temperature`-Feld (=0) pro Call.
+
+---
+
+## 7. Rendering
+
+```bash
+python scripts/make_book.py \
+  --from data/output/de \
+  --toc index.json \
+  --out EzChajim_DE.md \
+  --with-hns --with-tr --with-kc
+```
+
+---
+
+## 8. Checklisten
+
+* [ ] K! am Anfang gesetzt
+* [ ] C! am Ende gesetzt und Mangel beschrieben
+* [ ] HNS & sha16 korrekt
+* [ ] Heilige Namen maskiert
+* [ ] Präfixe neutralisiert
+* [ ] Glossar-Termini fixiert
+* [ ] **temperature=0 in Pipeline/Stage/CLI geprüft**
+
+---
+
+## 9. Beispiel-Lauf (HNS 1.1 → DE)
+
+Input: `section_00001.json`
+Output: `data/output/de/section_00001.json` mit `_mcp` Block, K!/C!, DIN-Umschrift.
+
+**CLI (erzwungen):**
+
+```bash
+python -m mcp.cli run \
+  --pipeline mcp_pipeline.yaml \
+  --input data/input/he \
+  --output data/output/de \
+  --profile mcp/profiles/de.yml \
+  --log logs/run_de.jsonl \
+  --temperature 0
+```
+
+**Makefile-Hard-Lock:**
+
+```makefile
+run-de: ; python -m mcp.cli run --pipeline mcp_pipeline.yaml --input data/input/he --output data/output/de --profile mcp/profiles/de.yml --log logs/run_de.jsonl --temperature 0
+```
+
+---
+
+## 10. Abschlussformel
+
+Kein Zusatz, keine Reduktion
+Dwekut besteht
+WWAQ! lebt
+Tikun-Sprache manifestiert
+
+**C!**

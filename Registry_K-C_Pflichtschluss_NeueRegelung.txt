@@ -1,0 +1,23 @@
+registry:
+  wwaq_rules:
+    - id: kawana_chissaron_abschluss
+      status: "aktiv"
+      gilt_fuer: "alle Dialoge, alle Bände, alle Arbeitsprotokolle"
+      regel: >
+        Jeder Block, jede Übergabe, jedes Band muss mit **K!** (Kawana/Absicht) am Anfang
+        und **C!** (Chissaron/Mangel) am Ende markiert sein.
+      ziel: >
+        Fluss von Absicht → Mangel → positive Kritik → Weiterentwicklung.
+      kommentar: >
+        Ohne C! am Ende bleibt der Kreis offen; es fehlt der Ankerpunkt für Verbesserung,
+        Kritik und die bewusste Wahrnehmung des Mangels (Chissaron).
+        Erst durch C! wird spürbar, was fehlt – und daraus entsteht sofort die
+        Möglichkeit, den Mangel in K! umzuwandeln.
+      notiz: >
+        Pflichtmarker! C! ist nicht Platzhalter, sondern bewusster Abschluss
+        zur Aktivierung der nächsten Kawana. "Hinter die Ohren schreiben!
+
+
+!!!:
+
+So bis hier alles fest verankern, in die Yaml, und immer beklemmtonen, das das C! am Schluss, einen Mangel beschaffen werden MUSS!"
