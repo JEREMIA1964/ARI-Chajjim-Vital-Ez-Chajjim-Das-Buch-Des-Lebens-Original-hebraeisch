@@ -1,0 +1,2034 @@
+[
+  {
+    "tor": 1,
+    "kapitel": 1,
+    "sections": [
+      "section_00002.json",
+      "section_00003.json",
+      "section_00004.json",
+      "section_00005.json",
+      "section_00006.json"
+    ],
+    "token_sum": 677
+  },
+  {
+    "tor": 1,
+    "kapitel": 2,
+    "sections": [
+      "section_00007.json",
+      "section_00008.json",
+      "section_00009.json",
+      "section_00010.json",
+      "section_00011.json",
+      "section_00012.json",
+      "section_00013.json",
+      "section_00014.json"
+    ],
+    "token_sum": 2877
+  },
+  {
+    "tor": 1,
+    "kapitel": 3,
+    "sections": [
+      "section_00015.json"
+    ],
+    "token_sum": 841
+  },
+  {
+    "tor": 1,
+    "kapitel": 4,
+    "sections": [
+      "section_00016.json",
+      "section_00017.json",
+      "section_00018.json",
+      "section_00019.json",
+      "section_00020.json",
+      "section_00021.json",
+      "section_00022.json",
+      "section_00023.json",
+      "section_00024.json",
+      "section_00025.json",
+      "section_00026.json"
+    ],
+    "token_sum": 2314
+  },
+  {
+    "tor": 1,
+    "kapitel": 5,
+    "sections": [
+      "section_00027.json",
+      "section_00028.json",
+      "section_00029.json",
+      "section_00030.json"
+    ],
+    "token_sum": 1341
+  },
+  {
+    "tor": 2,
+    "kapitel": 1,
+    "sections": [
+      "section_00031.json",
+      "section_00032.json",
+      "section_00033.json"
+    ],
+    "token_sum": 457
+  },
+  {
+    "tor": 2,
+    "kapitel": 2,
+    "sections": [
+      "section_00034.json"
+    ],
+    "token_sum": 731
+  },
+  {
+    "tor": 2,
+    "kapitel": 3,
+    "sections": [
+      "section_00035.json",
+      "section_00036.json",
+      "section_00037.json",
+      "section_00038.json"
+    ],
+    "token_sum": 793
+  },
+  {
+    "tor": 3,
+    "kapitel": 1,
+    "sections": [
+      "section_00039.json",
+      "section_00040.json",
+      "section_00041.json"
+    ],
+    "token_sum": 735
+  },
+  {
+    "tor": 3,
+    "kapitel": 2,
+    "sections": [
+      "section_00042.json"
+    ],
+    "token_sum": 681
+  },
+  {
+    "tor": 3,
+    "kapitel": 3,
+    "sections": [
+      "section_00043.json"
+    ],
+    "token_sum": 569
+  },
+  {
+    "tor": 4,
+    "kapitel": 1,
+    "sections": [
+      "section_00044.json",
+      "section_00045.json",
+      "section_00046.json",
+      "section_00047.json",
+      "section_00048.json"
+    ],
+    "token_sum": 1154
+  },
+  {
+    "tor": 4,
+    "kapitel": 2,
+    "sections": [
+      "section_00049.json",
+      "section_00050.json"
+    ],
+    "token_sum": 420
+  },
+  {
+    "tor": 4,
+    "kapitel": 3,
+    "sections": [
+      "section_00051.json",
+      "section_00052.json",
+      "section_00053.json",
+      "section_00054.json"
+    ],
+    "token_sum": 1094
+  },
+  {
+    "tor": 4,
+    "kapitel": 4,
+    "sections": [
+      "section_00055.json",
+      "section_00056.json"
+    ],
+    "token_sum": 1014
+  },
+  {
+    "tor": 4,
+    "kapitel": 5,
+    "sections": [
+      "section_00057.json",
+      "section_00058.json"
+    ],
+    "token_sum": 906
+  },
+  {
+    "tor": 5,
+    "kapitel": 1,
+    "sections": [
+      "section_00059.json",
+      "section_00060.json",
+      "section_00061.json",
+      "section_00062.json",
+      "section_00063.json"
+    ],
+    "token_sum": 1348
+  },
+  {
+    "tor": 5,
+    "kapitel": 2,
+    "sections": [
+      "section_00064.json",
+      "section_00065.json"
+    ],
+    "token_sum": 684
+  },
+  {
+    "tor": 5,
+    "kapitel": 3,
+    "sections": [
+      "section_00066.json",
+      "section_00067.json"
+    ],
+    "token_sum": 373
+  },
+  {
+    "tor": 5,
+    "kapitel": 4,
+    "sections": [
+      "section_00068.json"
+    ],
+    "token_sum": 401
+  },
+  {
+    "tor": 5,
+    "kapitel": 5,
+    "sections": [
+      "section_00069.json",
+      "section_00070.json",
+      "section_00071.json",
+      "section_00072.json"
+    ],
+    "token_sum": 1972
+  },
+  {
+    "tor": 5,
+    "kapitel": 6,
+    "sections": [
+      "section_00073.json",
+      "section_00074.json"
+    ],
+    "token_sum": 585
+  },
+  {
+    "tor": 5,
+    "kapitel": 7,
+    "sections": [
+      "section_00075.json",
+      "section_00076.json",
+      "section_00077.json",
+      "section_00078.json"
+    ],
+    "token_sum": 595
+  },
+  {
+    "tor": 6,
+    "kapitel": 1,
+    "sections": [
+      "section_00079.json",
+      "section_00080.json",
+      "section_00081.json"
+    ],
+    "token_sum": 542
+  },
+  {
+    "tor": 6,
+    "kapitel": 2,
+    "sections": [
+      "section_00082.json",
+      "section_00083.json",
+      "section_00084.json",
+      "section_00085.json",
+      "section_00086.json"
+    ],
+    "token_sum": 1158
+  },
+  {
+    "tor": 6,
+    "kapitel": 3,
+    "sections": [
+      "section_00087.json",
+      "section_00088.json",
+      "section_00089.json",
+      "section_00090.json"
+    ],
+    "token_sum": 1249
+  },
+  {
+    "tor": 6,
+    "kapitel": 4,
+    "sections": [
+      "section_00091.json"
+    ],
+    "token_sum": 217
+  },
+  {
+    "tor": 6,
+    "kapitel": 5,
+    "sections": [
+      "section_00092.json",
+      "section_00093.json",
+      "section_00094.json",
+      "section_00095.json",
+      "section_00096.json",
+      "section_00097.json",
+      "section_00098.json"
+    ],
+    "token_sum": 1557
+  },
+  {
+    "tor": 6,
+    "kapitel": 6,
+    "sections": [
+      "section_00099.json",
+      "section_00100.json",
+      "section_00101.json"
+    ],
+    "token_sum": 1627
+  },
+  {
+    "tor": 6,
+    "kapitel": 7,
+    "sections": [
+      "section_00102.json",
+      "section_00103.json"
+    ],
+    "token_sum": 522
+  },
+  {
+    "tor": 6,
+    "kapitel": 8,
+    "sections": [
+      "section_00104.json",
+      "section_00105.json",
+      "section_00106.json",
+      "section_00107.json",
+      "section_00108.json"
+    ],
+    "token_sum": 1128
+  },
+  {
+    "tor": 7,
+    "kapitel": 1,
+    "sections": [
+      "section_00109.json",
+      "section_00110.json",
+      "section_00111.json",
+      "section_00112.json",
+      "section_00113.json",
+      "section_00114.json"
+    ],
+    "token_sum": 1480
+  },
+  {
+    "tor": 7,
+    "kapitel": 2,
+    "sections": [
+      "section_00115.json",
+      "section_00116.json",
+      "section_00117.json"
+    ],
+    "token_sum": 1369
+  },
+  {
+    "tor": 7,
+    "kapitel": 3,
+    "sections": [
+      "section_00118.json",
+      "section_00119.json"
+    ],
+    "token_sum": 1144
+  },
+  {
+    "tor": 7,
+    "kapitel": 4,
+    "sections": [
+      "section_00120.json",
+      "section_00121.json"
+    ],
+    "token_sum": 1128
+  },
+  {
+    "tor": 7,
+    "kapitel": 5,
+    "sections": [
+      "section_00122.json",
+      "section_00123.json",
+      "section_00124.json",
+      "section_00125.json",
+      "section_00126.json"
+    ],
+    "token_sum": 700
+  },
+  {
+    "tor": 8,
+    "kapitel": 1,
+    "sections": [
+      "section_00127.json",
+      "section_00128.json",
+      "section_00129.json",
+      "section_00130.json",
+      "section_00131.json",
+      "section_00132.json",
+      "section_00133.json",
+      "section_00134.json",
+      "section_00135.json"
+    ],
+    "token_sum": 2256
+  },
+  {
+    "tor": 8,
+    "kapitel": 2,
+    "sections": [
+      "section_00136.json"
+    ],
+    "token_sum": 1375
+  },
+  {
+    "tor": 8,
+    "kapitel": 3,
+    "sections": [
+      "section_00137.json",
+      "section_00138.json"
+    ],
+    "token_sum": 826
+  },
+  {
+    "tor": 8,
+    "kapitel": 4,
+    "sections": [
+      "section_00139.json"
+    ],
+    "token_sum": 777
+  },
+  {
+    "tor": 8,
+    "kapitel": 5,
+    "sections": [
+      "section_00140.json"
+    ],
+    "token_sum": 343
+  },
+  {
+    "tor": 8,
+    "kapitel": 6,
+    "sections": [
+      "section_00141.json",
+      "section_00142.json"
+    ],
+    "token_sum": 1459
+  },
+  {
+    "tor": 9,
+    "kapitel": 1,
+    "sections": [
+      "section_00143.json",
+      "section_00144.json"
+    ],
+    "token_sum": 1080
+  },
+  {
+    "tor": 9,
+    "kapitel": 2,
+    "sections": [
+      "section_00145.json"
+    ],
+    "token_sum": 1564
+  },
+  {
+    "tor": 9,
+    "kapitel": 3,
+    "sections": [
+      "section_00146.json"
+    ],
+    "token_sum": 1702
+  },
+  {
+    "tor": 9,
+    "kapitel": 4,
+    "sections": [
+      "section_00147.json"
+    ],
+    "token_sum": 544
+  },
+  {
+    "tor": 9,
+    "kapitel": 5,
+    "sections": [
+      "section_00148.json"
+    ],
+    "token_sum": 234
+  },
+  {
+    "tor": 9,
+    "kapitel": 6,
+    "sections": [
+      "section_00149.json"
+    ],
+    "token_sum": 1062
+  },
+  {
+    "tor": 9,
+    "kapitel": 7,
+    "sections": [
+      "section_00150.json"
+    ],
+    "token_sum": 804
+  },
+  {
+    "tor": 9,
+    "kapitel": 8,
+    "sections": [
+      "section_00151.json"
+    ],
+    "token_sum": 483
+  },
+  {
+    "tor": 10,
+    "kapitel": 1,
+    "sections": [
+      "section_00152.json",
+      "section_00153.json"
+    ],
+    "token_sum": 506
+  },
+  {
+    "tor": 10,
+    "kapitel": 2,
+    "sections": [
+      "section_00154.json"
+    ],
+    "token_sum": 609
+  },
+  {
+    "tor": 10,
+    "kapitel": 3,
+    "sections": [
+      "section_00155.json"
+    ],
+    "token_sum": 856
+  },
+  {
+    "tor": 10,
+    "kapitel": 4,
+    "sections": [
+      "section_00156.json",
+      "section_00157.json",
+      "section_00158.json"
+    ],
+    "token_sum": 645
+  },
+  {
+    "tor": 10,
+    "kapitel": 5,
+    "sections": [
+      "section_00159.json"
+    ],
+    "token_sum": 737
+  },
+  {
+    "tor": 11,
+    "kapitel": 1,
+    "sections": [
+      "section_00160.json",
+      "section_00161.json"
+    ],
+    "token_sum": 671
+  },
+  {
+    "tor": 11,
+    "kapitel": 2,
+    "sections": [
+      "section_00162.json"
+    ],
+    "token_sum": 886
+  },
+  {
+    "tor": 11,
+    "kapitel": 3,
+    "sections": [
+      "section_00163.json"
+    ],
+    "token_sum": 532
+  },
+  {
+    "tor": 11,
+    "kapitel": 4,
+    "sections": [
+      "section_00164.json",
+      "section_00165.json",
+      "section_00166.json"
+    ],
+    "token_sum": 590
+  },
+  {
+    "tor": 11,
+    "kapitel": 5,
+    "sections": [
+      "section_00167.json"
+    ],
+    "token_sum": 1122
+  },
+  {
+    "tor": 11,
+    "kapitel": 6,
+    "sections": [
+      "section_00168.json",
+      "section_00169.json",
+      "section_00170.json",
+      "section_00171.json"
+    ],
+    "token_sum": 2011
+  },
+  {
+    "tor": 11,
+    "kapitel": 7,
+    "sections": [
+      "section_00172.json"
+    ],
+    "token_sum": 1194
+  },
+  {
+    "tor": 11,
+    "kapitel": 8,
+    "sections": [
+      "section_00173.json",
+      "section_00174.json"
+    ],
+    "token_sum": 1620
+  },
+  {
+    "tor": 11,
+    "kapitel": 9,
+    "sections": [
+      "section_00175.json"
+    ],
+    "token_sum": 226
+  },
+  {
+    "tor": 11,
+    "kapitel": 10,
+    "sections": [
+      "section_00176.json"
+    ],
+    "token_sum": 167
+  },
+  {
+    "tor": 12,
+    "kapitel": 1,
+    "sections": [
+      "section_00177.json",
+      "section_00178.json",
+      "section_00179.json",
+      "section_00180.json",
+      "section_00181.json",
+      "section_00182.json",
+      "section_00183.json"
+    ],
+    "token_sum": 1118
+  },
+  {
+    "tor": 12,
+    "kapitel": 2,
+    "sections": [
+      "section_00184.json"
+    ],
+    "token_sum": 817
+  },
+  {
+    "tor": 12,
+    "kapitel": 3,
+    "sections": [
+      "section_00185.json"
+    ],
+    "token_sum": 882
+  },
+  {
+    "tor": 12,
+    "kapitel": 4,
+    "sections": [
+      "section_00186.json",
+      "section_00187.json"
+    ],
+    "token_sum": 1360
+  },
+  {
+    "tor": 12,
+    "kapitel": 5,
+    "sections": [
+      "section_00188.json",
+      "section_00189.json",
+      "section_00190.json"
+    ],
+    "token_sum": 1008
+  },
+  {
+    "tor": 13,
+    "kapitel": 1,
+    "sections": [
+      "section_00191.json",
+      "section_00192.json"
+    ],
+    "token_sum": 291
+  },
+  {
+    "tor": 13,
+    "kapitel": 2,
+    "sections": [
+      "section_00193.json",
+      "section_00194.json",
+      "section_00195.json"
+    ],
+    "token_sum": 1276
+  },
+  {
+    "tor": 13,
+    "kapitel": 3,
+    "sections": [
+      "section_00196.json"
+    ],
+    "token_sum": 885
+  },
+  {
+    "tor": 13,
+    "kapitel": 4,
+    "sections": [
+      "section_00197.json"
+    ],
+    "token_sum": 889
+  },
+  {
+    "tor": 13,
+    "kapitel": 5,
+    "sections": [
+      "section_00198.json",
+      "section_00199.json",
+      "section_00200.json",
+      "section_00201.json",
+      "section_00202.json",
+      "section_00203.json",
+      "section_00204.json",
+      "section_00205.json",
+      "section_00206.json"
+    ],
+    "token_sum": 1452
+  },
+  {
+    "tor": 13,
+    "kapitel": 6,
+    "sections": [
+      "section_00207.json"
+    ],
+    "token_sum": 1191
+  },
+  {
+    "tor": 13,
+    "kapitel": 7,
+    "sections": [
+      "section_00208.json",
+      "section_00209.json"
+    ],
+    "token_sum": 936
+  },
+  {
+    "tor": 13,
+    "kapitel": 8,
+    "sections": [
+      "section_00210.json"
+    ],
+    "token_sum": 748
+  },
+  {
+    "tor": 13,
+    "kapitel": 9,
+    "sections": [
+      "section_00211.json"
+    ],
+    "token_sum": 565
+  },
+  {
+    "tor": 13,
+    "kapitel": 10,
+    "sections": [
+      "section_00212.json"
+    ],
+    "token_sum": 489
+  },
+  {
+    "tor": 13,
+    "kapitel": 11,
+    "sections": [
+      "section_00213.json",
+      "section_00214.json"
+    ],
+    "token_sum": 810
+  },
+  {
+    "tor": 13,
+    "kapitel": 12,
+    "sections": [
+      "section_00215.json"
+    ],
+    "token_sum": 588
+  },
+  {
+    "tor": 13,
+    "kapitel": 13,
+    "sections": [
+      "section_00216.json",
+      "section_00217.json"
+    ],
+    "token_sum": 1361
+  },
+  {
+    "tor": 13,
+    "kapitel": 14,
+    "sections": [
+      "section_00218.json"
+    ],
+    "token_sum": 862
+  },
+  {
+    "tor": 14,
+    "kapitel": 1,
+    "sections": [
+      "section_00219.json",
+      "section_00220.json",
+      "section_00221.json"
+    ],
+    "token_sum": 886
+  },
+  {
+    "tor": 14,
+    "kapitel": 2,
+    "sections": [
+      "section_00222.json"
+    ],
+    "token_sum": 728
+  },
+  {
+    "tor": 14,
+    "kapitel": 3,
+    "sections": [
+      "section_00223.json",
+      "section_00224.json",
+      "section_00225.json"
+    ],
+    "token_sum": 835
+  },
+  {
+    "tor": 14,
+    "kapitel": 4,
+    "sections": [
+      "section_00226.json",
+      "section_00227.json",
+      "section_00228.json"
+    ],
+    "token_sum": 481
+  },
+  {
+    "tor": 14,
+    "kapitel": 5,
+    "sections": [
+      "section_00229.json",
+      "section_00230.json"
+    ],
+    "token_sum": 546
+  },
+  {
+    "tor": 14,
+    "kapitel": 6,
+    "sections": [
+      "section_00231.json"
+    ],
+    "token_sum": 1052
+  },
+  {
+    "tor": 14,
+    "kapitel": 7,
+    "sections": [
+      "section_00232.json",
+      "section_00233.json"
+    ],
+    "token_sum": 999
+  },
+  {
+    "tor": 14,
+    "kapitel": 8,
+    "sections": [
+      "section_00234.json",
+      "section_00235.json"
+    ],
+    "token_sum": 483
+  },
+  {
+    "tor": 14,
+    "kapitel": 9,
+    "sections": [
+      "section_00236.json",
+      "section_00237.json",
+      "section_00238.json"
+    ],
+    "token_sum": 1214
+  },
+  {
+    "tor": 14,
+    "kapitel": 10,
+    "sections": [
+      "section_00239.json"
+    ],
+    "token_sum": 408
+  },
+  {
+    "tor": 15,
+    "kapitel": 1,
+    "sections": [
+      "section_00240.json",
+      "section_00241.json",
+      "section_00242.json",
+      "section_00243.json"
+    ],
+    "token_sum": 935
+  },
+  {
+    "tor": 15,
+    "kapitel": 2,
+    "sections": [
+      "section_00244.json",
+      "section_00245.json"
+    ],
+    "token_sum": 984
+  },
+  {
+    "tor": 15,
+    "kapitel": 3,
+    "sections": [
+      "section_00246.json"
+    ],
+    "token_sum": 980
+  },
+  {
+    "tor": 15,
+    "kapitel": 4,
+    "sections": [
+      "section_00247.json"
+    ],
+    "token_sum": 740
+  },
+  {
+    "tor": 15,
+    "kapitel": 5,
+    "sections": [
+      "section_00248.json"
+    ],
+    "token_sum": 567
+  },
+  {
+    "tor": 15,
+    "kapitel": 6,
+    "sections": [
+      "section_00249.json"
+    ],
+    "token_sum": 1159
+  },
+  {
+    "tor": 16,
+    "kapitel": 1,
+    "sections": [
+      "section_00250.json",
+      "section_00251.json"
+    ],
+    "token_sum": 509
+  },
+  {
+    "tor": 16,
+    "kapitel": 2,
+    "sections": [
+      "section_00252.json"
+    ],
+    "token_sum": 729
+  },
+  {
+    "tor": 16,
+    "kapitel": 3,
+    "sections": [
+      "section_00253.json"
+    ],
+    "token_sum": 967
+  },
+  {
+    "tor": 16,
+    "kapitel": 4,
+    "sections": [
+      "section_00254.json"
+    ],
+    "token_sum": 836
+  },
+  {
+    "tor": 16,
+    "kapitel": 5,
+    "sections": [
+      "section_00255.json"
+    ],
+    "token_sum": 1337
+  },
+  {
+    "tor": 16,
+    "kapitel": 6,
+    "sections": [
+      "section_00256.json",
+      "section_00257.json"
+    ],
+    "token_sum": 1056
+  },
+  {
+    "tor": 16,
+    "kapitel": 7,
+    "sections": [
+      "section_00258.json",
+      "section_00259.json"
+    ],
+    "token_sum": 215
+  },
+  {
+    "tor": 17,
+    "kapitel": 1,
+    "sections": [
+      "section_00260.json",
+      "section_00261.json",
+      "section_00262.json",
+      "section_00263.json",
+      "section_00264.json"
+    ],
+    "token_sum": 733
+  },
+  {
+    "tor": 17,
+    "kapitel": 2,
+    "sections": [
+      "section_00265.json"
+    ],
+    "token_sum": 699
+  },
+  {
+    "tor": 17,
+    "kapitel": 3,
+    "sections": [
+      "section_00266.json",
+      "section_00267.json"
+    ],
+    "token_sum": 691
+  },
+  {
+    "tor": 17,
+    "kapitel": 4,
+    "sections": [
+      "section_00268.json"
+    ],
+    "token_sum": 378
+  },
+  {
+    "tor": 18,
+    "kapitel": 1,
+    "sections": [
+      "section_00269.json",
+      "section_00270.json"
+    ],
+    "token_sum": 867
+  },
+  {
+    "tor": 18,
+    "kapitel": 2,
+    "sections": [
+      "section_00271.json",
+      "section_00272.json"
+    ],
+    "token_sum": 1155
+  },
+  {
+    "tor": 18,
+    "kapitel": 3,
+    "sections": [
+      "section_00273.json"
+    ],
+    "token_sum": 895
+  },
+  {
+    "tor": 18,
+    "kapitel": 4,
+    "sections": [
+      "section_00274.json",
+      "section_00275.json"
+    ],
+    "token_sum": 1081
+  },
+  {
+    "tor": 18,
+    "kapitel": 5,
+    "sections": [
+      "section_00276.json",
+      "section_00277.json"
+    ],
+    "token_sum": 1538
+  },
+  {
+    "tor": 18,
+    "kapitel": 6,
+    "sections": [
+      "section_00278.json"
+    ],
+    "token_sum": 795
+  },
+  {
+    "tor": 19,
+    "kapitel": 1,
+    "sections": [
+      "section_00279.json",
+      "section_00280.json",
+      "section_00281.json",
+      "section_00282.json"
+    ],
+    "token_sum": 915
+  },
+  {
+    "tor": 19,
+    "kapitel": 2,
+    "sections": [
+      "section_00283.json"
+    ],
+    "token_sum": 763
+  },
+  {
+    "tor": 19,
+    "kapitel": 3,
+    "sections": [
+      "section_00284.json"
+    ],
+    "token_sum": 1033
+  },
+  {
+    "tor": 19,
+    "kapitel": 4,
+    "sections": [
+      "section_00285.json"
+    ],
+    "token_sum": 274
+  },
+  {
+    "tor": 19,
+    "kapitel": 5,
+    "sections": [
+      "section_00286.json",
+      "section_00287.json"
+    ],
+    "token_sum": 601
+  },
+  {
+    "tor": 19,
+    "kapitel": 6,
+    "sections": [
+      "section_00288.json"
+    ],
+    "token_sum": 568
+  },
+  {
+    "tor": 19,
+    "kapitel": 7,
+    "sections": [
+      "section_00289.json"
+    ],
+    "token_sum": 520
+  },
+  {
+    "tor": 19,
+    "kapitel": 8,
+    "sections": [
+      "section_00290.json",
+      "section_00291.json"
+    ],
+    "token_sum": 672
+  },
+  {
+    "tor": 19,
+    "kapitel": 9,
+    "sections": [
+      "section_00292.json",
+      "section_00293.json",
+      "section_00294.json"
+    ],
+    "token_sum": 877
+  },
+  {
+    "tor": 19,
+    "kapitel": 10,
+    "sections": [
+      "section_00295.json"
+    ],
+    "token_sum": 699
+  },
+  {
+    "tor": 20,
+    "kapitel": 1,
+    "sections": [
+      "section_00296.json",
+      "section_00297.json",
+      "section_00298.json"
+    ],
+    "token_sum": 842
+  },
+  {
+    "tor": 20,
+    "kapitel": 2,
+    "sections": [
+      "section_00299.json"
+    ],
+    "token_sum": 231
+  },
+  {
+    "tor": 20,
+    "kapitel": 3,
+    "sections": [
+      "section_00300.json"
+    ],
+    "token_sum": 693
+  },
+  {
+    "tor": 20,
+    "kapitel": 4,
+    "sections": [
+      "section_00301.json",
+      "section_00302.json",
+      "section_00303.json"
+    ],
+    "token_sum": 179
+  },
+  {
+    "tor": 20,
+    "kapitel": 5,
+    "sections": [
+      "section_00304.json",
+      "section_00305.json"
+    ],
+    "token_sum": 1465
+  },
+  {
+    "tor": 20,
+    "kapitel": 6,
+    "sections": [
+      "section_00306.json"
+    ],
+    "token_sum": 409
+  },
+  {
+    "tor": 20,
+    "kapitel": 7,
+    "sections": [
+      "section_00307.json"
+    ],
+    "token_sum": 553
+  },
+  {
+    "tor": 20,
+    "kapitel": 8,
+    "sections": [
+      "section_00308.json"
+    ],
+    "token_sum": 651
+  },
+  {
+    "tor": 20,
+    "kapitel": 9,
+    "sections": [
+      "section_00309.json"
+    ],
+    "token_sum": 776
+  },
+  {
+    "tor": 20,
+    "kapitel": 10,
+    "sections": [
+      "section_00310.json",
+      "section_00311.json"
+    ],
+    "token_sum": 533
+  },
+  {
+    "tor": 20,
+    "kapitel": 11,
+    "sections": [
+      "section_00312.json",
+      "section_00313.json"
+    ],
+    "token_sum": 760
+  },
+  {
+    "tor": 20,
+    "kapitel": 12,
+    "sections": [
+      "section_00314.json"
+    ],
+    "token_sum": 602
+  },
+  {
+    "tor": 21,
+    "kapitel": 1,
+    "sections": [
+      "section_00315.json",
+      "section_00316.json"
+    ],
+    "token_sum": 739
+  },
+  {
+    "tor": 21,
+    "kapitel": 2,
+    "sections": [
+      "section_00317.json"
+    ],
+    "token_sum": 1220
+  },
+  {
+    "tor": 21,
+    "kapitel": 3,
+    "sections": [
+      "section_00318.json"
+    ],
+    "token_sum": 528
+  },
+  {
+    "tor": 22,
+    "kapitel": 1,
+    "sections": [
+      "section_00319.json",
+      "section_00320.json"
+    ],
+    "token_sum": 891
+  },
+  {
+    "tor": 22,
+    "kapitel": 2,
+    "sections": [
+      "section_00321.json",
+      "section_00322.json"
+    ],
+    "token_sum": 1591
+  },
+  {
+    "tor": 22,
+    "kapitel": 3,
+    "sections": [
+      "section_00323.json"
+    ],
+    "token_sum": 1629
+  },
+  {
+    "tor": 23,
+    "kapitel": 1,
+    "sections": [
+      "section_00324.json",
+      "section_00325.json",
+      "section_00326.json"
+    ],
+    "token_sum": 1048
+  },
+  {
+    "tor": 23,
+    "kapitel": 2,
+    "sections": [
+      "section_00327.json"
+    ],
+    "token_sum": 655
+  },
+  {
+    "tor": 23,
+    "kapitel": 3,
+    "sections": [
+      "section_00328.json",
+      "section_00329.json"
+    ],
+    "token_sum": 555
+  },
+  {
+    "tor": 23,
+    "kapitel": 4,
+    "sections": [
+      "section_00330.json",
+      "section_00331.json",
+      "section_00332.json"
+    ],
+    "token_sum": 1019
+  },
+  {
+    "tor": 23,
+    "kapitel": 5,
+    "sections": [
+      "section_00333.json"
+    ],
+    "token_sum": 706
+  },
+  {
+    "tor": 23,
+    "kapitel": 6,
+    "sections": [
+      "section_00334.json"
+    ],
+    "token_sum": 909
+  },
+  {
+    "tor": 23,
+    "kapitel": 7,
+    "sections": [
+      "section_00335.json",
+      "section_00336.json"
+    ],
+    "token_sum": 465
+  },
+  {
+    "tor": 23,
+    "kapitel": 8,
+    "sections": [
+      "section_00337.json"
+    ],
+    "token_sum": 443
+  },
+  {
+    "tor": 24,
+    "kapitel": 1,
+    "sections": [
+      "section_00338.json",
+      "section_00339.json",
+      "section_00340.json",
+      "section_00341.json"
+    ],
+    "token_sum": 1039
+  },
+  {
+    "tor": 24,
+    "kapitel": 2,
+    "sections": [
+      "section_00342.json",
+      "section_00343.json"
+    ],
+    "token_sum": 854
+  },
+  {
+    "tor": 24,
+    "kapitel": 3,
+    "sections": [
+      "section_00344.json",
+      "section_00345.json"
+    ],
+    "token_sum": 551
+  },
+  {
+    "tor": 24,
+    "kapitel": 4,
+    "sections": [
+      "section_00346.json"
+    ],
+    "token_sum": 290
+  },
+  {
+    "tor": 24,
+    "kapitel": 5,
+    "sections": [
+      "section_00347.json"
+    ],
+    "token_sum": 684
+  },
+  {
+    "tor": 24,
+    "kapitel": 6,
+    "sections": [
+      "section_00348.json"
+    ],
+    "token_sum": 852
+  },
+  {
+    "tor": 24,
+    "kapitel": 7,
+    "sections": [
+      "section_00349.json"
+    ],
+    "token_sum": 149
+  },
+  {
+    "tor": 25,
+    "kapitel": 1,
+    "sections": [
+      "section_00350.json",
+      "section_00351.json",
+      "section_00352.json",
+      "section_00353.json",
+      "section_00354.json",
+      "section_00355.json"
+    ],
+    "token_sum": 3085
+  },
+  {
+    "tor": 25,
+    "kapitel": 2,
+    "sections": [
+      "section_00356.json",
+      "section_00357.json",
+      "section_00358.json",
+      "section_00359.json",
+      "section_00360.json",
+      "section_00361.json",
+      "section_00362.json",
+      "section_00363.json",
+      "section_00364.json",
+      "section_00365.json"
+    ],
+    "token_sum": 3977
+  },
+  {
+    "tor": 25,
+    "kapitel": 2,
+    "sections": [
+      "section_00366.json",
+      "section_00367.json",
+      "section_00368.json",
+      "section_00369.json",
+      "section_00370.json",
+      "section_00371.json",
+      "section_00372.json",
+      "section_00373.json"
+    ],
+    "token_sum": 2461
+  },
+  {
+    "tor": 25,
+    "kapitel": 3,
+    "sections": [
+      "section_00374.json",
+      "section_00375.json",
+      "section_00376.json",
+      "section_00377.json",
+      "section_00378.json",
+      "section_00379.json",
+      "section_00380.json",
+      "section_00381.json",
+      "section_00382.json",
+      "section_00383.json",
+      "section_00384.json",
+      "section_00385.json",
+      "section_00386.json"
+    ],
+    "token_sum": 3178
+  },
+  {
+    "tor": 25,
+    "kapitel": 4,
+    "sections": [
+      "section_00387.json",
+      "section_00388.json",
+      "section_00389.json",
+      "section_00390.json"
+    ],
+    "token_sum": 1401
+  },
+  {
+    "tor": 25,
+    "kapitel": 5,
+    "sections": [
+      "section_00391.json",
+      "section_00392.json",
+      "section_00393.json"
+    ],
+    "token_sum": 2582
+  },
+  {
+    "tor": 25,
+    "kapitel": 6,
+    "sections": [
+      "section_00394.json",
+      "section_00395.json",
+      "section_00396.json",
+      "section_00397.json"
+    ],
+    "token_sum": 1841
+  },
+  {
+    "tor": 25,
+    "kapitel": 7,
+    "sections": [
+      "section_00398.json"
+    ],
+    "token_sum": 560
+  },
+  {
+    "tor": 25,
+    "kapitel": 8,
+    "sections": [
+      "section_00399.json"
+    ],
+    "token_sum": 1823
+  },
+  {
+    "tor": 26,
+    "kapitel": 1,
+    "sections": [
+      "section_00400.json",
+      "section_00401.json",
+      "section_00402.json"
+    ],
+    "token_sum": 727
+  },
+  {
+    "tor": 26,
+    "kapitel": 2,
+    "sections": [
+      "section_00403.json",
+      "section_00404.json",
+      "section_00405.json"
+    ],
+    "token_sum": 923
+  },
+  {
+    "tor": 26,
+    "kapitel": 3,
+    "sections": [
+      "section_00406.json"
+    ],
+    "token_sum": 737
+  },
+  {
+    "tor": 26,
+    "kapitel": 4,
+    "sections": [
+      "section_00407.json",
+      "section_00408.json"
+    ],
+    "token_sum": 303
+  },
+  {
+    "tor": 27,
+    "kapitel": 1,
+    "sections": [
+      "section_00409.json",
+      "section_00410.json"
+    ],
+    "token_sum": 534
+  },
+  {
+    "tor": 27,
+    "kapitel": 2,
+    "sections": [
+      "section_00411.json",
+      "section_00412.json"
+    ],
+    "token_sum": 1136
+  },
+  {
+    "tor": 27,
+    "kapitel": 3,
+    "sections": [
+      "section_00413.json"
+    ],
+    "token_sum": 553
+  },
+  {
+    "tor": 27,
+    "kapitel": 4,
+    "sections": [
+      "section_00414.json"
+    ],
+    "token_sum": 420
+  },
+  {
+    "tor": 28,
+    "kapitel": 1,
+    "sections": [
+      "section_00415.json",
+      "section_00416.json"
+    ],
+    "token_sum": 674
+  },
+  {
+    "tor": 28,
+    "kapitel": 2,
+    "sections": [
+      "section_00417.json"
+    ],
+    "token_sum": 1185
+  },
+  {
+    "tor": 28,
+    "kapitel": 3,
+    "sections": [
+      "section_00418.json"
+    ],
+    "token_sum": 222
+  },
+  {
+    "tor": 28,
+    "kapitel": 4,
+    "sections": [
+      "section_00419.json",
+      "section_00420.json",
+      "section_00421.json",
+      "section_00422.json",
+      "section_00423.json"
+    ],
+    "token_sum": 969
+  },
+  {
+    "tor": 28,
+    "kapitel": 5,
+    "sections": [
+      "section_00424.json"
+    ],
+    "token_sum": 759
+  },
+  {
+    "tor": 29,
+    "kapitel": 1,
+    "sections": [
+      "section_00425.json",
+      "section_00426.json",
+      "section_00427.json",
+      "section_00428.json"
+    ],
+    "token_sum": 1515
+  },
+  {
+    "tor": 29,
+    "kapitel": 2,
+    "sections": [
+      "section_00429.json"
+    ],
+    "token_sum": 657
+  },
+  {
+    "tor": 29,
+    "kapitel": 3,
+    "sections": [
+      "section_00430.json"
+    ],
+    "token_sum": 1016
+  },
+  {
+    "tor": 29,
+    "kapitel": 4,
+    "sections": [
+      "section_00431.json"
+    ],
+    "token_sum": 876
+  },
+  {
+    "tor": 29,
+    "kapitel": 5,
+    "sections": [
+      "section_00432.json"
+    ],
+    "token_sum": 409
+  },
+  {
+    "tor": 29,
+    "kapitel": 6,
+    "sections": [
+      "section_00433.json"
+    ],
+    "token_sum": 708
+  },
+  {
+    "tor": 29,
+    "kapitel": 7,
+    "sections": [
+      "section_00434.json"
+    ],
+    "token_sum": 1483
+  },
+  {
+    "tor": 29,
+    "kapitel": 8,
+    "sections": [
+      "section_00435.json",
+      "section_00436.json"
+    ],
+    "token_sum": 636
+  },
+  {
+    "tor": 29,
+    "kapitel": 9,
+    "sections": [
+      "section_00437.json"
+    ],
+    "token_sum": 879
+  },
+  {
+    "tor": 30,
+    "kapitel": 1,
+    "sections": [
+      "section_00438.json",
+      "section_00439.json",
+      "section_00440.json",
+      "section_00441.json",
+      "section_00442.json",
+      "section_00443.json"
+    ],
+    "token_sum": 983
+  },
+  {
+    "tor": 30,
+    "kapitel": 2,
+    "sections": [
+      "section_00444.json"
+    ],
+    "token_sum": 603
+  },
+  {
+    "tor": 30,
+    "kapitel": 3,
+    "sections": [
+      "section_00445.json"
+    ],
+    "token_sum": 1182
+  },
+  {
+    "tor": 30,
+    "kapitel": 4,
+    "sections": [
+      "section_00446.json"
+    ],
+    "token_sum": 423
+  },
+  {
+    "tor": 30,
+    "kapitel": 5,
+    "sections": [
+      "section_00447.json"
+    ],
+    "token_sum": 648
+  },
+  {
+    "tor": 30,
+    "kapitel": 6,
+    "sections": [
+      "section_00448.json"
+    ],
+    "token_sum": 577
+  },
+  {
+    "tor": 30,
+    "kapitel": 7,
+    "sections": [
+      "section_00449.json"
+    ],
+    "token_sum": 579
+  },
+  {
+    "tor": 31,
+    "kapitel": 1,
+    "sections": [
+      "section_00450.json",
+      "section_00451.json"
+    ],
+    "token_sum": 621
+  },
+  {
+    "tor": 31,
+    "kapitel": 2,
+    "sections": [
+      "section_00452.json"
+    ],
+    "token_sum": 1510
+  },
+  {
+    "tor": 31,
+    "kapitel": 3,
+    "sections": [
+      "section_00453.json"
+    ],
+    "token_sum": 992
+  },
+  {
+    "tor": 31,
+    "kapitel": 4,
+    "sections": [
+      "section_00454.json"
+    ],
+    "token_sum": 335
+  },
+  {
+    "tor": 31,
+    "kapitel": 5,
+    "sections": [
+      "section_00455.json"
+    ],
+    "token_sum": 617
+  },
+  {
+    "tor": 32,
+    "kapitel": 1,
+    "sections": [
+      "section_00456.json",
+      "section_00457.json",
+      "section_00458.json",
+      "section_00459.json"
+    ],
+    "token_sum": 2290
+  },
+  {
+    "tor": 32,
+    "kapitel": 2,
+    "sections": [
+      "section_00460.json"
+    ],
+    "token_sum": 1430
+  },
+  {
+    "tor": 32,
+    "kapitel": 3,
+    "sections": [
+      "section_00461.json"
+    ],
+    "token_sum": 355
+  },
+  {
+    "tor": 32,
+    "kapitel": 4,
+    "sections": [
+      "section_00462.json"
+    ],
+    "token_sum": 370
+  },
+  {
+    "tor": 32,
+    "kapitel": 5,
+    "sections": [
+      "section_00463.json"
+    ],
+    "token_sum": 1681
+  },
+  {
+    "tor": 32,
+    "kapitel": 6,
+    "sections": [
+      "section_00464.json",
+      "section_00465.json"
+    ],
+    "token_sum": 1518
+  },
+  {
+    "tor": 32,
+    "kapitel": 7,
+    "sections": [
+      "section_00466.json"
+    ],
+    "token_sum": 1179
+  },
+  {
+    "tor": 32,
+    "kapitel": 8,
+    "sections": [
+      "section_00467.json"
+    ],
+    "token_sum": 598
+  },
+  {
+    "tor": 32,
+    "kapitel": 9,
+    "sections": [
+      "section_00468.json"
+    ],
+    "token_sum": 269
+  },
+  {
+    "tor": 33,
+    "kapitel": 1,
+    "sections": [
+      "section_00469.json",
+      "section_00470.json"
+    ],
+    "token_sum": 1632
+  },
+  {
+    "tor": 33,
+    "kapitel": 2,
+    "sections": [
+      "section_00471.json"
+    ],
+    "token_sum": 460
+  },
+  {
+    "tor": 33,
+    "kapitel": 3,
+    "sections": [
+      "section_00472.json"
+    ],
+    "token_sum": 1632
+  },
+  {
+    "tor": 33,
+    "kapitel": 4,
+    "sections": [
+      "section_00473.json"
+    ],
+    "token_sum": 393
+  },
+  {
+    "tor": 33,
+    "kapitel": 5,
+    "sections": [
+      "section_00474.json"
+    ],
+    "token_sum": 326
+  },
+  {
+    "tor": 34,
+    "kapitel": 1,
+    "sections": [
+      "section_00475.json",
+      "section_00476.json",
+      "section_00477.json"
+    ],
+    "token_sum": 1015
+  },
+  {
+    "tor": 34,
+    "kapitel": 2,
+    "sections": [
+      "section_00478.json",
+      "section_00479.json",
+      "section_00480.json",
+      "section_00481.json",
+      "section_00482.json",
+      "section_00483.json",
+      "section_00484.json",
+      "section_00485.json",
+      "section_00486.json",
+      "section_00487.json",
+      "section_00488.json",
+      "section_00489.json",
+      "section_00490.json",
+      "section_00491.json",
+      "section_00492.json",
+      "section_00493.json",
+      "section_00494.json",
+      "section_00495.json",
+      "section_00496.json",
+      "section_00497.json",
+      "section_00498.json",
+      "section_00499.json",
+      "section_00500.json"
+    ],
+    "token_sum": 3110
+  }
+]
