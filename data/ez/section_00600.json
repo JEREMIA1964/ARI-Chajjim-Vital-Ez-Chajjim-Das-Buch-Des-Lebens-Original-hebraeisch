@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "source_file": "Sefer Etz Chaim - he - Sefer Etz Chaim.json",
+    "section_index": 600,
+    "section_hns": "600.1",
+    "path_trace": [
+      "text#14",
+      "#2",
+      "39",
+      "11",
+      "15"
+    ],
+    "paren_count": 1
+  },
+  "text_he": "(יד) שם ס\"ג מעלה מ\"ן דבינה ושם ע\"ב מוריד מ\"ד דאבא ושם מ\"ה מוריד מ\"ד דז\"א ושם ב\"ן מעלה מ\"נ דנוקבא. [הגהה - צמח מ\"ן דנוקבא קודם למ\"ד דז\"א:",
+  "parentheses": [
+    {
+      "hns": "600.1.1",
+      "text": "יד"
+    }
+  ]
+}

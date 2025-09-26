@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "source_file": "Sefer Etz Chaim - he - Sefer Etz Chaim.json",
+    "section_index": 829,
+    "section_hns": "829.1",
+    "path_trace": [
+      "text#14",
+      "#2",
+      "50",
+      "10",
+      "13"
+    ],
+    "paren_count": 1
+  },
+  "text_he": "(ה) חותם אמת הם אהי\"ה פ' אהי\"ה והם כ\"א מקיפין דזו\"ן:",
+  "parentheses": [
+    {
+      "hns": "829.1.1",
+      "text": "ה"
+    }
+  ]
+}
