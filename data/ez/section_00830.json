@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "source_file": "Sefer Etz Chaim - he - Sefer Etz Chaim.json",
+    "section_index": 830,
+    "section_hns": "830.1",
+    "path_trace": [
+      "text#14",
+      "#2",
+      "50",
+      "10",
+      "14"
+    ],
+    "paren_count": 1
+  },
+  "text_he": "(ו) ציון וירושלים לאה ורחל:",
+  "parentheses": [
+    {
+      "hns": "830.1.1",
+      "text": "ו"
+    }
+  ]
+}

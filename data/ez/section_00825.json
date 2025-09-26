@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "source_file": "Sefer Etz Chaim - he - Sefer Etz Chaim.json",
+    "section_index": 825,
+    "section_hns": "825.1",
+    "path_trace": [
+      "text#14",
+      "#2",
+      "50",
+      "10",
+      "9"
+    ],
+    "paren_count": 1
+  },
+  "text_he": "(א) שם אלוה שבחסד הוא לבוש הנשמה וחותמה:",
+  "parentheses": [
+    {
+      "hns": "825.1.1",
+      "text": "א"
+    }
+  ]
+}

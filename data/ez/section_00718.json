@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "source_file": "Sefer Etz Chaim - he - Sefer Etz Chaim.json",
+    "section_index": 718,
+    "section_hns": "718.1",
+    "path_trace": [
+      "text#14",
+      "#2",
+      "44",
+      "4",
+      "13"
+    ],
+    "paren_count": 1
+  },
+  "text_he": "(המקיפין החצונים לכל א' וא' מי\"ס החיצוניות שבה):",
+  "parentheses": [
+    {
+      "hns": "718.1.1",
+      "text": "המקיפין החצונים לכל א' וא' מי\"ס החיצוניות שבה"
+    }
+  ]
+}

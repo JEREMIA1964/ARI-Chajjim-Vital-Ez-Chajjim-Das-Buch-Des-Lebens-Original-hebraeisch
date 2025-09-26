@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "source_file": "Sefer Etz Chaim - he - Sefer Etz Chaim.json",
+    "section_index": 392,
+    "section_hns": "392.1",
+    "path_trace": [
+      "text#14",
+      "#2",
+      "25",
+      "5",
+      "2"
+    ],
+    "paren_count": 2
+  },
+  "text_he": "ונלע\"ד דקאי אעתיק שלקח הכתרים של ז\"ת (דב\"ן) שמהם נעשה זו\"נ כמש\"ל (פ\"ג):",
+  "parentheses": [
+    {
+      "hns": "392.1.1",
+      "text": "דב\"ן"
+    },
+    {
+      "hns": "392.2.1",
+      "text": "פ\"ג"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "source_file": "Sefer Etz Chaim - he - Sefer Etz Chaim.json",
+    "section_index": 826,
+    "section_hns": "826.1",
+    "path_trace": [
+      "text#14",
+      "#2",
+      "50",
+      "10",
+      "10"
+    ],
+    "paren_count": 1
+  },
+  "text_he": "(ב) נצח והוד הם גופא חד:",
+  "parentheses": [
+    {
+      "hns": "826.1.1",
+      "text": "ב"
+    }
+  ]
+}

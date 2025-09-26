@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "source_file": "Sefer Etz Chaim - he - Sefer Etz Chaim.json",
+    "section_index": 499,
+    "section_hns": "499.1",
+    "path_trace": [
+      "text#14",
+      "#2",
+      "34",
+      "2",
+      "22"
+    ],
+    "paren_count": 1
+  },
+  "text_he": "(יח) החדר הפרוזדור שנזכר במסכת נדה הם בחי' יסוד ומל' שבנוק':",
+  "parentheses": [
+    {
+      "hns": "499.1.1",
+      "text": "יח"
+    }
+  ]
+}

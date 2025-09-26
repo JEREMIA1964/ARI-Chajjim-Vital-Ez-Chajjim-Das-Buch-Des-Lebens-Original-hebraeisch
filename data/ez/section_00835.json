@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "source_file": "Sefer Etz Chaim - he - Sefer Etz Chaim.json",
+    "section_index": 835,
+    "section_hns": "835.1",
+    "path_trace": [
+      "text#14",
+      "#2",
+      "50",
+      "10",
+      "19"
+    ],
+    "paren_count": 1
+  },
+  "text_he": "(יא) שם מ\"ה עם מ\"ב אותיות שלו פשוט ומלא ומלא דמלא הם פ\"ז אותיות והם בז\"א:",
+  "parentheses": [
+    {
+      "hns": "835.1.1",
+      "text": "יא"
+    }
+  ]
+}
